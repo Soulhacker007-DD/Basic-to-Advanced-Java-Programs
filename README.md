@@ -20,6 +20,6 @@ Language:-it is a commnuication barrier used by us to communicate with each othe
 
 language broadly classified as
 
-           .Lowleve programming language 
-           .Middlelevel programming language
-           .highlevel programming lanaguage
+.           Lowleve programming language 
+.            .Middlelevel programming language
+.         .highlevel programming lanaguage
